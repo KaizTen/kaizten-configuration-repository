@@ -1,5 +1,4 @@
 spring:
   data:
     mongodb:
-      host: 127.0.0.1
-      port: 77777
+      uri: mongodb://kaizten-mongo:27017/kaizten-dashboard # URI of MongoDB
