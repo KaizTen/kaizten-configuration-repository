@@ -7,5 +7,5 @@ git add *
 git config --global user.email "cexposit@ull.edu.es"
 git config --global user.name "cexposit"
 git commit -m "${commitMessage}"
-git remote add origin htpps://KaizTen/kaizten-configuration-repository
+git remote add origin htpps://github.com/KaizTen/kaizten-configuration-repository
 git push -u origin master
