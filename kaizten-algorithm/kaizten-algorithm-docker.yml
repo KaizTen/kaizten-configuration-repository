@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://kaizten-mongo:27017/kaizten-algorithm # URI of MongoDB
